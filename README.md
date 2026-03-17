@@ -89,8 +89,8 @@ Legal reporting mobile application concept focused on structured UI and scalable
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=djehelmohamedsalah&show_icons=true&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djehelmohamedsalah&layout=compact&hide_border=true" width="48%" />
 
 </div>
 
