@@ -1,105 +1,112 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="55%" />
 
 # Mohamed Salah Djehel
-### Mobile Application Developer | Flutter Specialist
+### Flutter Mobile Application Developer
 
-Building clean, scalable, and high-performance mobile applications focused on real-world usability and structured architecture.
+Designing structured, scalable, and high-performance mobile applications using clean architecture and modern Flutter practices.
 
-[LinkedIn](https://linkedin.com/) • [Portfolio](https://) • [Email](mailto:)
+[Portfolio](https://your-portfolio-link) • 
+[LinkedIn](https://linkedin.com/in/mohamedsalahdjehel/) • 
+[Email](mailto:djehelmohamedsalah@email.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Professional Summary
 
-Mobile Application Developer specialized in **Flutter** and **Android development**, focused on building structured applications using clean architecture principles and performance-oriented design.
+Mobile developer specialized in Flutter, focused on building real-world applications with clean architecture, maintainable codebases, and strong user experience foundations.
 
-I transform ideas into production-ready mobile apps — from UI implementation to architecture decisions — with strong attention to maintainability, scalability, and user experience.
+I develop complete mobile solutions — from UI implementation to architecture planning — with emphasis on performance, scalability, and long-term maintainability.
 
-Currently seeking opportunities to contribute to professional development teams and grow through real-world projects.
+Currently open to **Junior Flutter Developer opportunities** and collaborative projects.
 
 ---
 
-## 🚀 Featured Projects
+## 🧩 Featured Projects
+
+### 📰 Newsily — News Aggregation App
+Mobile application aggregating international news sources into one organized experience.
+
+**Key Contributions**
+- API integration with optimized request strategy
+- Offline caching using SQLite
+- Bloc (Cubit) state management
+- Performance-focused data refresh system
+
+**Stack:** Flutter • Bloc • REST API • SQLite
+
+---
+
+### ⚖️ Raqib — Trade Violation Reporting App
+A reporting platform enabling users to submit and track trade violations.
+
+**Key Contributions**
+- Full app architecture design
+- Supabase authentication & realtime database
+- Report tracking workflow
+- Multi-language support
+
+**Stack:** Flutter • GetX • Supabase • Clean Architecture
+
+---
 
 ### 📖 Quran Live
-A Quran reading application designed for smooth navigation and accessible reading experience.
+Lightweight Quran reading application emphasizing usability and smooth navigation.
 
-**Highlights**
-- Clean and responsive UI
-- Optimized performance
-- Structured application architecture
-- Focus on usability and readability
-
-**Tech:** Flutter • Dart • Clean Architecture
+**Stack:** Flutter • UI Architecture • Performance Optimization
 
 ---
 
-### 📰 Newsily
-News aggregation mobile app combining multiple international news sources into one platform.
+## 🧠 Technical Skills
 
-**Features**
-- API-based news aggregation
-- Offline caching (SQLite)
-- Category filtering & search
-- Dark / Light mode
-- Optimized API usage logic
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**Tech:** Flutter • Bloc (Cubit) • REST API • SQLite
+### Architecture & Engineering
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
+![Bloc](https://img.shields.io/badge/Bloc%20%2F%20Cubit-4B32C3?style=for-the-badge)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
 
----
+### Backend & Data
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### ⚖️ TradeLaw
-Legal reporting mobile application concept focused on structured UI and scalable backend integration.
-
-**Tech:** Flutter • Supabase
-
----
-
-## 🧰 Tech Stack
-
-**Mobile Development**
-- Flutter
-- Dart
-- Android Development
-
-**Architecture & Concepts**
-- Clean Architecture
-- State Management (Bloc / Cubit)
-- REST APIs
-- Performance Optimization
-
-**Backend & Data**
-- Supabase
-- Firebase
-- SQLite
-
-**Tools**
-- Git & GitHub
-- Figma
-- VS Code
-- Linux
+### Tools
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=djehelmohamedsalah&show_icons=true&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djehelmohamedsalah&layout=compact&hide_border=true" width="48%" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=djehelmohamedsalah&show_icons=true&hide_border=true&rank_icon=github"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djehelmohamedsalah&layout=compact&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 📈 Contribution Activity
 
-I’m open to collaboration, internships, and junior mobile developer opportunities.
+<div align="center">
 
-- LinkedIn: https://linkedin.com/
-- Portfolio: https://
-- Email: your@email.com
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=djehelmohamedsalah&hide_border=true"/>
+
+</div>
+
+---
+
+## 🤝 Open For Opportunities
+
+I’m actively seeking opportunities where I can contribute as a Flutter developer, collaborate within structured teams, and continue growing through real production environments.
+
+Let’s connect.
