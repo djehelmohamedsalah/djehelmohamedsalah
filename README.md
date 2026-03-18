@@ -28,36 +28,41 @@ Currently open to **Junior Flutter Developer opportunities** and collaborative p
 ## 🧩 Featured Projects
 
 ### 📰 Newsily — News Aggregation App
-Mobile application aggregating international news sources into one organized experience.
+A Flutter news application that aggregates articles from multiple international sources into a centralized and distraction-free reading experience.
 
-**Key Contributions**
-- API integration with optimized request strategy
-- Offline caching using SQLite
-- Bloc (Cubit) state management
-- Performance-focused data refresh system
+**Highlights**
+- Multi-source news aggregation via API
+- Offline caching with smart refresh strategy
+- Category browsing & article search
+- Optimized API usage using time-based data validation
 
-**Stack:** Flutter • Bloc • REST API • SQLite
-
----
-
-### ⚖️ Raqib — Trade Violation Reporting App
-A reporting platform enabling users to submit and track trade violations.
-
-**Key Contributions**
-- Full app architecture design
-- Supabase authentication & realtime database
-- Report tracking workflow
-- Multi-language support
-
-**Stack:** Flutter • GetX • Supabase • Clean Architecture
+**Stack:** Flutter • Bloc (Cubit) • REST API • SQLite • Clean Architecture
 
 ---
 
-### 📖 Quran Live
-Lightweight Quran reading application emphasizing usability and smooth navigation.
+### ⚖️ Raqib — Trade Violation Reporting Platform
+Mobile reporting system enabling users to submit and track trade violations through a structured and transparent workflow.
 
-**Stack:** Flutter • UI Architecture • Performance Optimization
+**Highlights**
+- Secure authentication (email, Google, anonymous)
+- Real-time report tracking using Supabase
+- Offline-first report submission
+- Multi-language support & scalable architecture
 
+**Stack:** Flutter • GetX • Supabase • Real-time Database • Clean Architecture
+
+---
+
+### 📖 QuranLife — Islamic Companion App
+All-in-one Islamic mobile application combining Quran reading, prayer utilities, and community features into a single performance-focused platform.
+
+**Highlights**
+- Quran reading & audio with offline support
+- Dynamic prayer time logic & notifications
+- Qibla direction & mosque locator (Google Maps)
+- Real-time chat and AI-powered Islamic history assistant
+
+**Stack:** Flutter • Firebase • GetX • REST APIs • SQLite • Offline-first Architecture
 ---
 
 ## 🧠 Technical Skills
