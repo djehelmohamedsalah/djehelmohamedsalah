@@ -76,19 +76,25 @@ All-in-one Islamic mobile application combining Quran reading, prayer utilities,
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
 ![Bloc](https://img.shields.io/badge/Bloc%20%2F%20Cubit-4B32C3?style=for-the-badge)
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![Offline First](https://img.shields.io/badge/Offline--First-4CAF50?style=for-the-badge)
 
 ### Backend & Data
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Tools
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools & Integration
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Localization](https://img.shields.io/badge/Multi--Language-FF6F00?style=for-the-badge)
+![AI Integration](https://img.shields.io/badge/AI%20API-6A1B9A?style=for-the-badge)
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
