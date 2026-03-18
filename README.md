@@ -36,7 +36,8 @@ A Flutter news application that aggregates articles from multiple international 
 - Category browsing & article search
 - Optimized API usage using time-based data validation
 
-**Stack:** Flutter • Bloc (Cubit) • REST API • SQLite • Clean Architecture
+**Stack:** Flutter • Bloc (Cubit) • REST API • SQLite • Clean Architecture  
+🔗 **Repository:** https://github.com/djehelmohamedsalah/newsily
 
 ---
 
@@ -49,7 +50,8 @@ Mobile reporting system enabling users to submit and track trade violations thro
 - Offline-first report submission
 - Multi-language support & scalable architecture
 
-**Stack:** Flutter • GetX • Supabase • Real-time Database • Clean Architecture
+**Stack:** Flutter • GetX • Supabase • Real-time Database • Clean Architecture  
+🔗 **Repository:** https://github.com/djehelmohamedsalah/raqib
 
 ---
 
@@ -62,10 +64,10 @@ All-in-one Islamic mobile application combining Quran reading, prayer utilities,
 - Qibla direction & mosque locator (Google Maps)
 - Real-time chat and AI-powered Islamic history assistant
 
-**Stack:** Flutter • Firebase • GetX • REST APIs • SQLite • Offline-first Architecture
+**Stack:** Flutter • Firebase • GetX • REST APIs • SQLite • Offline-first Architecture  
+🔗 **Repository:** https://github.com/djehelmohamedsalah/quranlife
 
 ---
-
 ## 🧠 Technical Skills
 
 ### Mobile Development
