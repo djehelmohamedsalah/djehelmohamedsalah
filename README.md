@@ -63,6 +63,7 @@ All-in-one Islamic mobile application combining Quran reading, prayer utilities,
 - Real-time chat and AI-powered Islamic history assistant
 
 **Stack:** Flutter • Firebase • GetX • REST APIs • SQLite • Offline-first Architecture
+
 ---
 
 ## 🧠 Technical Skills
