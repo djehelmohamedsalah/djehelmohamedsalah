@@ -103,6 +103,16 @@ All-in-one Islamic mobile application combining Quran reading, prayer utilities,
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djehelmohamedsalah&layout=compact&hide_border=true"/>
 
+<img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=djehelmohamedsalah&layout=compact&hide_border=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=djehelmohamedsalah&layout=compact&hide_border=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/index/?username=djehelmohamedsalah&layout=compact&hide_border=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/gist/?username=djehelmohamedsalah&layout=compact&hide_border=true"/>
+
+
+
 </div>
 
 ---
