@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="55%" />
 
 # Mohamed Salah Djehel
-### Flutter Mobile Application Developer
+### Mobile Application Developer
 
 Designing structured, scalable, and high-performance mobile applications using clean architecture and modern Flutter practices.
 
@@ -21,7 +21,7 @@ Mobile developer specialized in Flutter, focused on building real-world applicat
 
 I develop complete mobile solutions — from UI implementation to architecture planning — with emphasis on performance, scalability, and long-term maintainability.
 
-Currently open to **Junior Flutter Developer opportunities** and collaborative projects.
+Open to Flutter development opportunities and collaborative projects contributing to real-world products within professional teams.
 
 ---
 
