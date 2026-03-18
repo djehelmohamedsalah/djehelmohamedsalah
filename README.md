@@ -76,9 +76,9 @@ All-in-one Islamic mobile application combining Quran reading, prayer utilities,
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Architecture & Engineering
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
 ![Bloc](https://img.shields.io/badge/Bloc%20%2F%20Cubit-4B32C3?style=for-the-badge)
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 ![Offline First](https://img.shields.io/badge/Offline--First-4CAF50?style=for-the-badge)
 
