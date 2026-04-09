@@ -7,7 +7,7 @@
 
 Designing structured, scalable, and high-performance mobile applications using clean architecture and modern Flutter practices.
 
-[Portfolio](https://your-portfolio-link) • 
+[Portfolio](https://djehelmohamedsalah.netlify.app/) • 
 [LinkedIn](https://linkedin.com/in/mohamedsalahdjehel/) • 
 [Email](mailto:djehelmohamedsalah@email.com)
 
